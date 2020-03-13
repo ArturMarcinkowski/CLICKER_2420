@@ -1,3 +1,5 @@
-<script>
+function hahaha() {
+	document.getElementById("aaa").innerHTML = "Cipsko";
+}
 
-</script>
+document.getElementById("btn").addEventListener("click", hahaha);
